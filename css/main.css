@@ -112,26 +112,6 @@ h2 {
 
 /*Second window*/
 
-#carouselExampleIndicators {
-	background-color: rgba(0, 0, 0, 0.7);
-	margin-top: 90px;
-}
-
-.carousel-inner img {
-	margin: 0 auto;
-    width: 70%;
-    height: 100%;
-  }
-
-.carousel-indicators {
-	margin-bottom: 5px;
-}
-
-.carousel-control-prev, .carousel-control-next {
-	width: 35%;
-	margin: 0 auto;
-}
-
 .feature {
 	margin-bottom: 65px;
 }
@@ -255,6 +235,10 @@ h2 {
 		.menu__item {
 			text-align: center;
 			margin-top: 12px;
+		}
+
+		.carousel-wrap {
+			width: 90%;
 		}
 	}
 }
