@@ -2,6 +2,7 @@ $('.owl-carousel').owlCarousel({
   loop: true,
   margin: 5,
   nav: true, 
+  items: 3,
   navText: [
     "<i class='fa fa-angle-left'></i>",
     "<i class='fa fa-angle-right'></i>"
